@@ -1,2 +1,2 @@
-# pygamemodule
+# module
 button, entry
